@@ -1,16 +1,16 @@
 # 2024s_qtm350_ps01
 
-###Project Title: Foodiology
+### Project Title: Foodiology
 
-###Group Members
+### Group Members
 Katie Shao and Carol Zhou
 
-###Description
+### Description
 Our website aims to create a food recipe platform where the users can input the ingrediants they have in their cabinet and generate easy to make recipes!
 
-##Contribution
+### Contribution
 Katie worked on the createaccount.html and login.html. Carol worked on the 
 basics.html and style.css.
 
-###References 
+### References 
 https://www.youtube.com/watch?v=5o0NF5pVilM
